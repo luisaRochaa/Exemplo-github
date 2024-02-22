@@ -1,4 +1,4 @@
-# exemplo-git
+# Exemplo-github
 
 ## Subtitulo
 Exemplo de criação de repositório no Github
